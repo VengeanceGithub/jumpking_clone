@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://db3dliusoj6fb"
+path="res://.godot/imported/OnlineSound.net SFX hitHurt.wav-fef95b2bb27ddeb69a2ccf29a44909bc.sample"
+
+[deps]
+
+source_file="res://sounds/OnlineSound.net SFX hitHurt.wav"
+dest_files=["res://.godot/imported/OnlineSound.net SFX hitHurt.wav-fef95b2bb27ddeb69a2ccf29a44909bc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
